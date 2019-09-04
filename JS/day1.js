@@ -18,7 +18,7 @@ console.log(c.length);
 [1, 2, 3, 4].concat(5, 6); // 1,2,3,4,5,6
 
 var origin = [1, 2, 3, 4];
-// spread operator (새로운 배열값을 반환)
+// spread operator - 새로운 배열값을 반환
 var changedArray = [...origin, 2, 3]; // 1,2,3,4,2,3
 console.log(origin, changedArray); // 1,2,3,4 / 1,2,3,4,2,3
 
