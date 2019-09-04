@@ -1,2 +1,3 @@
-# practice_web
-practice for web programming
+This project is based on edwith_boostCourse
+
+#1. Reservation Service
