@@ -1,3 +1,5 @@
+// javascript array
+
 var a = [1, 2, 3, "hello", null, true, [[{1:0}]]];
 
 console.log(a.length);
