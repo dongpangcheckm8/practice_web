@@ -20,6 +20,7 @@ function init(){
 	// hoverTest
 	var hoverTgt = document.querySelector(".hoverTest");
 	hoverTgt.addEventListener("mouseenter", function(){
+		alert('mouseenter');
 	  var left = parseInt(hoverTgt.style.left);
 	  var top = parseInt(hoverTgt.style.top);
 	  hoverTgt.style.left = left + 200 + "px";
