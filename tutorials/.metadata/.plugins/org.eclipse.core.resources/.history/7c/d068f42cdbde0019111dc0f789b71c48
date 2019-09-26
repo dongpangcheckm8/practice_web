@@ -1,0 +1,11 @@
+package kr.or.connect.diexam01;
+
+public class Car {
+
+	private Engine v8;
+	
+	public Car() {
+		System.out.println("car constructor");
+	}
+		
+}

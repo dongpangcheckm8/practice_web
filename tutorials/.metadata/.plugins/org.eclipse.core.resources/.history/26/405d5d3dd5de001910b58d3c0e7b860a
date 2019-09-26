@@ -1,0 +1,12 @@
+package kr.or.connect.diexam01;
+
+public class UserBean {
+	
+//	Specs of Bean
+//	1) it have default constructor
+//	2) field needs to be deflared as 'private'
+//	3) it have getter & setter methods
+	
+	private String name;
+	
+}
